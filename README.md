@@ -1,4 +1,5 @@
-Usage: ./sim
+3D Spring Physics
+=====================
 
 Controls:
   w/a/s/d - movement
